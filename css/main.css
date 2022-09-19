@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.easy{
+    background-color: aquamarine;
+    width:300px;
+    height:auto;
+    margin-top: 30px;
+    margin-left: 35%;
+    margin-bottom: 50px;
+}
+.easy li{
+    list-style-type:square;
+}
+.easy li:nth-child(1){
+    height: 50px;
+    width: 100%;
+    background-color: rgb(160, 82, 82);
+}
+.easy li:nth-child(2){
+     background: rgb(133, 161, 219);
+     height: 30px;
+}
+.easy li:nth-child(3){
+    background: rgb(53, 60, 73);
+    height: 30px;
+}
+.easy li:nth-child(4){
+    background: rgb(247, 112, 235);
+    height: 30px;
+}
+.easy li:nth-child(5){
+    background: rgb(172, 115, 238);
+    height: 30px;
+}
